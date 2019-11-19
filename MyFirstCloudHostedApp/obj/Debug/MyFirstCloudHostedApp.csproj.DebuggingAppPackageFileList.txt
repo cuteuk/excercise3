@@ -1,1 +1,1 @@
-D:\sharepoint\TrainingContent\SharePoint\AddIns\01 Getting started with Add-ins for SharePoint\Completed Projects\Exercise03\MyFirstCloudHostedApp\bin\Debug\MyFirstCloudHostedApp.debugapp
+C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\MyFirstCloudHostedApp.debugapp
