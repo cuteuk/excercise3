@@ -1,1 +1,1 @@
-https://localhost:44300/
+http://spbe01.westus.cloudapp.azure.com/

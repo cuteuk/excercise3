@@ -20,3 +20,7 @@ C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\roslyn\System
 C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\roslyn\vbc.exe
 C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\roslyn\VBCSCompiler.exe
 C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\MyFirstCloudHostedApp.dll.config
+C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\bejian\Desktop\Exercise03\MyFirstCloudHostedApp\obj\Debug\MyFirstCloudHostedApp.csproj.CopyComplete

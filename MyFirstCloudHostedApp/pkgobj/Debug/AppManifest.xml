@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:70EDFC97-B41D-43C5-B751-7C00AD999804-->
 <!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="MyFirstCloudHostedApp" ProductID="{4ca22b22-a365-46bb-b56f-35ad9f8ce8bc}" Version="1.0.0.0" SharePointMinVersion="16.0.0.0">
   <Properties>
     <Title>MyFirstCloudHostedApp</Title>
-    <StartPage>https://localhost:44300/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <StartPage>http://spbe01.westus.cloudapp.azure.com/Pages/Default.aspx?{StandardTokens}</StartPage>
   </Properties>
   <AppPrincipal>
-    <AutoDeployedWebApplication>
-      <DebugInfo ClientSecret="NNbhkWuaXYBpm7/TTLKu4pVF57iqxp4ywB8hOxb9Tp8=" AppUrl="https://localhost:44300/" />
-    </AutoDeployedWebApplication>
+    <RemoteWebApplication ClientId="bf69367b-e23c-4417-b225-73aea32d490f" />
   </AppPrincipal>
 </App>
